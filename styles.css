@@ -6,9 +6,9 @@ body {
 .opening-screen {
     position: fixed;
     left: 50%;
-    top: 50px;
+    top: 5%;
     transform: translate(-50%, 0);
-    transition: 0.3s ease;
+    transition: 0.4s ease;
 }
 
 .opening-modal {
