@@ -1,1 +1,32 @@
+body {
+    background-color: #FFC7E4;
+    font-family: "Funnel Sans", sans-serif;
+}
 
+.opening-modal {
+    width: 80%;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fedcee;
+    box-shadow: 0 0 20px -10px grey;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.opening-modal h1 {
+    color: black;
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+}
+
+.opening-modal h3 {
+    color: black;
+}
+
+.opening-modal-image {
+    width: 100%;
+    margin: 0 auto;
+}
