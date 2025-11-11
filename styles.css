@@ -30,3 +30,20 @@ body {
     width: 100%;
     margin: 0 auto;
 }
+
+.love-button {
+    background-color: #ff78be;
+    color: white;
+    border: 2px solid #fc68b4;
+    padding: 15px 25px;
+    border-radius: 10px;
+    transition: 0.3s ease;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.love-button:hover, .love-button:active, .love-button:focus {
+    border-radius: 15px;
+    transform: translate(0, 2px);
+    box-shadow: 0 0 10px -5px #fc68b4;
+}
