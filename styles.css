@@ -3,7 +3,14 @@ body {
     font-family: "Funnel Sans", sans-serif;
 }
 
+.content {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
 .opening-screen {
+    width: 95%;
     position: fixed;
     left: 50%;
     top: 5%;
@@ -12,7 +19,7 @@ body {
 }
 
 .opening-modal {
-    width: 80%;
+    width: 100%;
     max-width: 400px;
     margin: 0 auto;
     background-color: #fedcee;
