@@ -1,6 +1,6 @@
 function loadbellaboo() {
-    document.getElementById('opening-screen').style.top = '-75%';
+    document.getElementById('opening-screen').style.top = '-100%';
     setTimeout(() => {
         document.getElementById('opening-screen').remove();
-    }, 400);
+    }, 1000);
 }
